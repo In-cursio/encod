@@ -1,4 +1,4 @@
-lxml
+lxml_html_clean
 aiohttp
 python-decouple
 pyaesni
